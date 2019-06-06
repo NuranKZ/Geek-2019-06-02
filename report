@@ -1,0 +1,10 @@
+1. Forge original repo from prostopasta
+2. Скопировал URL со своего аккаунта GitHUB
+3. git clone URL (to local dir)
+4. git branch HW (создана ветка)
+5. git checkout HW (переход в ветку)
+6. cat > report (запись в настоящий файл)
+7. git status (проверка статуса)
+8. git add . (добавление файла report)
+9. git commit -m ""[Dсмотрите в ветке HW"
+10. git push ...
